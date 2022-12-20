@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/projet-react-quiz.git/static/css/main.073c9b0a.css",
+    "main.js": "/projet-react-quiz.git/static/js/main.75f11493.js",
+    "index.html": "/projet-react-quiz.git/index.html",
+    "main.073c9b0a.css.map": "/projet-react-quiz.git/static/css/main.073c9b0a.css.map",
+    "main.75f11493.js.map": "/projet-react-quiz.git/static/js/main.75f11493.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.75f11493.js"
+  ]
+}
